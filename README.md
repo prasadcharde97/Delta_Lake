@@ -1,4 +1,4 @@
-# Delta_Lake_essentials
+# Delta_Lake
 This repository have information about Delta Lake and its features.
 
 This notebook will work effeciently in Databricks.
